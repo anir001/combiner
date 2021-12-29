@@ -3,7 +3,7 @@ import tkinter.font as tkFont
 import tkinter.filedialog
 import combine
 
-VER = '0.1'
+VER = 'v0.1.0-alpha'
 
 
 class App:
